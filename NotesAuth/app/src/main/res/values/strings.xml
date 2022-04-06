@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Notes by Mariana Buhrer</string>
+    <string name="default_web_client_id_auth" >213540210103-p8bdutec7sa4jg96q94goedshhqhab99.apps.googleusercontent.com</string>
+    <string name="todo">TODO</string>
+</resources>
